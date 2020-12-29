@@ -11,7 +11,7 @@
     "react-native-modal-dropdown": "latest"
   },
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start"
+    "start": "node init && node node_modules/react-native/local-cli/cli.js start"
   },
   "private": true
 }
